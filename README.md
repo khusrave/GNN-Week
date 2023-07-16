@@ -1,4 +1,6 @@
 # GNN-Week
-Material for the GNN course
+Evaluation for GEN models week
 ![Gen_models](https://github.com/khusrave/GNN-Week/assets/102155132/be7f97fe-e9c5-4a5f-909c-f74e6ca4f712)
+
+Evaluation for RL
 ![WhatsApp Image 2023-07-16 at 12 00 17 AM](https://github.com/khusrave/GNN-Week/assets/102155132/51de967a-a6cf-46de-ba9c-844d395b931a)
