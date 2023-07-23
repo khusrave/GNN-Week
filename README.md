@@ -1,10 +1,10 @@
-Lab 5 installation
+# Lab 5 installation
 
 
-conda install pyg -c pyg
+# conda install pyg -c pyg
 
 
-conda install pytorch-sparse -c pyg
+# conda install pytorch-sparse -c pyg
 
 
 # GNN-Week
